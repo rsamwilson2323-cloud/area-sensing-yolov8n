@@ -298,7 +298,6 @@ The camera window will close and the program will terminate.
 
 **Sam Wilson**
 
-📧 Email: rsamwilson2323@gmail.com  
 🌐 GitHub: https://github.com/rsamwilson2323-cloud  
 💼 LinkedIn: https://www.linkedin.com/in/sam-wilson-14b554385
 
